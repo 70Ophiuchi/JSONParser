@@ -8,4 +8,4 @@ Office 365 IP Address and URL JSON parser
 3. To use another Office 365 IP address and URL link, edit the file and replace the default link with your own link by editing the reader function line (last line, 59)
 
 # WARNING 
-This will create a lot of files in your CWD, please make sure you use it in an isolated folder.
+This will create a lot of files in your CWD, please make sure you use it in an isolated directory.
